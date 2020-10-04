@@ -22,5 +22,5 @@ const generatePage = (name, github) => {
 
     // console.log('Portfolio complete chekout index.html to see the output!');
     // });
-  
+    
 module.exports = generatePage;
